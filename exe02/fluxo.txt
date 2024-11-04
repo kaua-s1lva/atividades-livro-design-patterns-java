@@ -1,0 +1,14 @@
+fluxo principal para configurar (criar) um Caixa:
+1. O usuário seleicona no menu "novo caixa"
+1. O usuário seleciona o tipo de moeda
+2. O sistema solicita os valores das cédulas e as quantidades
+3. O usuário preenche as cédulas e as quantidades
+4. O sistema exibe as cédulas cadastradas, quantidades e o tipo
+
+fluxo principal para sacar dinheiro:
+1. O usuário seleciona no menu "sacar"
+2. O sistema solicita o valor
+3. O usuário informa o valor 
+4. O sistema exibe as cédulas e as quantidades a partir do valor informado
+5. O usuário confirma a operação
+6. O sistema exibe uma mensagem de sucesso
